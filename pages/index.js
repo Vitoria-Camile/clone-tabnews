@@ -1,5 +1,5 @@
 function Home (){
-return <h1>Você não é terremoto mas abalou minha estrutura BB!!</h1>
+return <h1>Sauades!!</h1>
 }
 
 export default Home;
